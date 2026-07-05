@@ -1,0 +1,151 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>QSS/Gold_SE.txt</file>
+        <file>GoldIcon/Add-Rule.png</file>
+        <file>GoldIcon/big_button.png</file>
+        <file>GoldIcon/big_secondary button.png</file>
+        <file>GoldIcon/check mark.png</file>
+        <file>GoldIcon/Close.png</file>
+        <file>GoldIcon/Close_hover.png</file>
+        <file>GoldIcon/Close_press.png</file>
+        <file>GoldIcon/Delete-Rule.png</file>
+        <file>GoldIcon/down.png</file>
+        <file>GoldIcon/Left arrow.png</file>
+        <file>GoldIcon/left.png</file>
+        <file>GoldIcon/left-h.png</file>
+        <file>GoldIcon/radio button.png</file>
+        <file>GoldIcon/radio frame.png</file>
+        <file>GoldIcon/Right arrow.png</file>
+        <file>GoldIcon/right.png</file>
+        <file>GoldIcon/right-h.png</file>
+        <file>GoldIcon/setting.png</file>
+        <file>GoldIcon/Tab.png</file>
+        <file>GoldIcon/Tab-p.png</file>
+        <file>GoldIcon/Title decoration.png</file>
+        <file>GoldIcon/Top decoration.png</file>
+        <file>GoldIcon/Top decoration3.png</file>
+        <file>GoldIcon/Up arrow.png</file>
+        <file>GoldIcon/radio.png</file>
+        <file>GoldIcon/radio_p.png</file>
+        <file>GoldIcon/Tab-h.png</file>
+        <file>GoldIcon/Top decoration2.png</file>
+        <file>GoldIcon/Top decoration4.png</file>
+        <file>GoldIcon/Zoom  Out.png</file>
+        <file>GoldIcon/Zoom In.png</file>
+        <file>GoldIcon/Zoom To Area.png</file>
+        <file>GoldIcon/Zoom To Window.png</file>
+        <file>GoldIcon/big_button_disable.png</file>
+        <file>GoldIcon/big_secondary-button1.png</file>
+        <file>GoldIcon/check-mark.png</file>
+        <file>GoldIcon/Down arrow.png</file>
+        <file>GoldIcon/radio1.png</file>
+        <file>GoldIcon/radio-p1.png</file>
+        <file>GoldIcon/Tab-g.png</file>
+        <file>GoldIcon/Tab-g1.png</file>
+        <file>BlueIcon/big_button.png</file>
+        <file>BlueIcon/big_button_disable.png</file>
+        <file>BlueIcon/big_secondary button.png</file>
+        <file>BlueIcon/big_secondary-button1.png</file>
+        <file>BlueIcon/check mark.png</file>
+        <file>BlueIcon/check-mark.png</file>
+        <file>BlueIcon/Close.png</file>
+        <file>BlueIcon/Close_hover.png</file>
+        <file>BlueIcon/Close_press.png</file>
+        <file>BlueIcon/Down arrow.png</file>
+        <file>BlueIcon/Left arrow.png</file>
+        <file>BlueIcon/radio button.png</file>
+        <file>BlueIcon/radio frame.png</file>
+        <file>BlueIcon/radio1.png</file>
+        <file>BlueIcon/radio1-p.png</file>
+        <file>BlueIcon/Right arrow.png</file>
+        <file>BlueIcon/Tab.png</file>
+        <file>BlueIcon/Tab-g.png</file>
+        <file>BlueIcon/Tab-g1.png</file>
+        <file>BlueIcon/Tab-h.png</file>
+        <file>BlueIcon/Tab-p.png</file>
+        <file>BlueIcon/Title decoration.png</file>
+        <file>BlueIcon/Top decoration.png</file>
+        <file>BlueIcon/Top decoration2.png</file>
+        <file>BlueIcon/Top decoration3.png</file>
+        <file>BlueIcon/Top decoration4.png</file>
+        <file>BlueIcon/Up arrow.png</file>
+        <file>PinkIcon/big_button.png</file>
+        <file>PinkIcon/big_button_disable.png</file>
+        <file>PinkIcon/big_secondary button.png</file>
+        <file>PinkIcon/big_secondary-button1.png</file>
+        <file>PinkIcon/check mark.png</file>
+        <file>PinkIcon/check-mark.png</file>
+        <file>PinkIcon/Close.png</file>
+        <file>PinkIcon/Close_hover.png</file>
+        <file>PinkIcon/Close_press.png</file>
+        <file>PinkIcon/Down arrow.png</file>
+        <file>PinkIcon/Left arrow.png</file>
+        <file>PinkIcon/radio button.png</file>
+        <file>PinkIcon/radio frame.png</file>
+        <file>PinkIcon/radio1.png</file>
+        <file>PinkIcon/radio-p1.png</file>
+        <file>PinkIcon/Right arrow.png</file>
+        <file>PinkIcon/Tab.png</file>
+        <file>PinkIcon/Tab-g.png</file>
+        <file>PinkIcon/Tab-g1.png</file>
+        <file>PinkIcon/Tab-h .png</file>
+        <file>PinkIcon/Tab-p.png</file>
+        <file>PinkIcon/Title decoration.png</file>
+        <file>PinkIcon/Top decoration.png</file>
+        <file>PinkIcon/Top decoration2.png</file>
+        <file>PinkIcon/Top decoration3.png</file>
+        <file>PinkIcon/Top decoration4.png</file>
+        <file>PinkIcon/Top decoration5.png</file>
+        <file>PinkIcon/Top decoration6.png</file>
+        <file>PinkIcon/Top decoration7.png</file>
+        <file>PinkIcon/Up arrow.png</file>
+        <file>WhiteIcon/big_button.png</file>
+        <file>WhiteIcon/big_button_disable.png</file>
+        <file>WhiteIcon/big_secondary button.png</file>
+        <file>WhiteIcon/big_secondary-button1.png</file>
+        <file>WhiteIcon/check mark.png</file>
+        <file>WhiteIcon/check-mark.png</file>
+        <file>WhiteIcon/Close.png</file>
+        <file>WhiteIcon/Close_hover.png</file>
+        <file>WhiteIcon/Close_press.png</file>
+        <file>WhiteIcon/Down Arrow.png</file>
+        <file>WhiteIcon/Left arrow.png</file>
+        <file>WhiteIcon/radio button.png</file>
+        <file>WhiteIcon/radio frame.png</file>
+        <file>WhiteIcon/radio1.png</file>
+        <file>WhiteIcon/radio-p1.png</file>
+        <file>WhiteIcon/Right arrow.png</file>
+        <file>WhiteIcon/Tab.png</file>
+        <file>WhiteIcon/Tab-g.png</file>
+        <file>WhiteIcon/Tab-g1.png</file>
+        <file>WhiteIcon/Tab-h.png</file>
+        <file>WhiteIcon/Tab-p.png</file>
+        <file>WhiteIcon/Title decoration.png</file>
+        <file>WhiteIcon/Top decoration.png</file>
+        <file>WhiteIcon/Top decoration2.png</file>
+        <file>WhiteIcon/Top decoration3.png</file>
+        <file>WhiteIcon/Top decoration4.png</file>
+        <file>WhiteIcon/Up arrow.png</file>
+        <file>QSS/Blue_SE.txt</file>
+        <file>QSS/Pink_SE.txt</file>
+        <file>QSS/White_SE.txt</file>
+        <file>BlueIcon/1-g.png</file>
+        <file>BlueIcon/1-p.png</file>
+        <file>GoldIcon/1-g.png</file>
+        <file>GoldIcon/1-p.png</file>
+        <file>PinkIcon/1-g.png</file>
+        <file>PinkIcon/1-p.png</file>
+        <file>WhiteIcon/1-g.png</file>
+        <file>WhiteIcon/1-p.png</file>
+        <file>BlueIcon/check mark1.png</file>
+        <file>GoldIcon/check mark1.png</file>
+        <file>PinkIcon/check mark1.png</file>
+        <file>WhiteIcon/check mark1.png</file>
+        <file>BlueIcon/1.png</file>
+        <file>BlueIcon/gray.png</file>
+        <file>GoldIcon/1.png</file>
+        <file>PinkIcon/1.png</file>
+        <file>WhiteIcon/1.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
